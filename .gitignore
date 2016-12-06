@@ -35,4 +35,15 @@ stamp-h1
 #Makefile.am
 #Makefile.in
 #missing
-
+/apg
+/apg_dbg
+/cppdemo
+/cppdemo_dbg
+/demo
+/demo_dbg
+/megaco
+/megaco_dbg
+/sip
+/sip_dbg
+/wide
+/wide_dbg
